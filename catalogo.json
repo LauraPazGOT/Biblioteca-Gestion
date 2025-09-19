@@ -1,0 +1,82 @@
+[
+    {
+        "nombre": "De la Tierra a la Luna",
+        "autor": "Julio Verne",
+        "ISBN": "8474611709",
+        "editorial": "S.A. Promocion y Ediciones",
+        "a\u00f1o": "1982",
+        "g\u00e9nero": "Ciencia Ficci\u00f3n",
+        "palabras claves": "Ficci\u00f3n, Cl\u00e1sico",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "Alan Ventura y el misterio de la pir\u00e1mide",
+        "autor": "Jo Rivadulla",
+        "ISBN": "9873504556",
+        "editorial": "AZ Editora",
+        "a\u00f1o": "2020",
+        "g\u00e9nero": "Infantil",
+        "palabras claves": "Aventura, Juvenil, Infantil, Ficci\u00f3n, Acci\u00f3n",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "El hijo infinito",
+        "autor": "Adam Silvera",
+        "ISBN": "8492918850",
+        "editorial": "Puck",
+        "a\u00f1o": "2020",
+        "g\u00e9nero": "Infantil",
+        "palabras claves": "Novela, Juvenil, Infantil, Ficci\u00f3n",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "El rev\u00e9s de las L\u00e1grimas",
+        "autor": "Cristina Loza",
+        "ISBN": "9789500436",
+        "editorial": "Emec\u00e9",
+        "a\u00f1o": "2007",
+        "g\u00e9nero": "Novela",
+        "palabras claves": "Novela, Ficci\u00f3n, Romance",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "Aprend\u00e9 a programar",
+        "autor": "Max Wainewright",
+        "ISBN": "9789504958",
+        "editorial": "Planeta Junior",
+        "a\u00f1o": "2020",
+        "g\u00e9nero": "Educaci\u00f3n",
+        "palabras claves": "Programaci\u00f3n, Codificar, Inform\u00e1tica",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "Antecedentes de la Rev. de Mayo",
+        "autor": "Miguel Angel de Marco",
+        "ISBN": "9879871888",
+        "editorial": "Orbit Media SA",
+        "a\u00f1o": "2014",
+        "g\u00e9nero": "Educaci\u00f3n",
+        "palabras claves": "Historia, Argentina, Virreinato, Revoluci\u00f3n",
+        "estado": "Disponible"
+    },
+    {
+        "nombre": "Harry Potter y la Piedra Filosofal",
+        "autor": "J. K. Rowling",
+        "ISBN": "8478884459",
+        "editorial": "Salamandra",
+        "a\u00f1o": "1999",
+        "g\u00e9nero": "Fantas\u00eda",
+        "palabras claves": "Magia",
+        "estado": "Solicitado"
+    },
+    {
+        "nombre": "Do\u00f1a Disparate y Bambuco",
+        "autor": "Mar\u00eda Elena Walsh",
+        "ISBN": "9789877382167",
+        "editorial": "Alfaguara",
+        "a\u00f1o": "2008",
+        "g\u00e9nero": "Infantil Poes\u00eda",
+        "palabras claves": "Infantil Poes\u00eda Cl\u00e1sico",
+        "estado": "Disponible"
+    }
+]
