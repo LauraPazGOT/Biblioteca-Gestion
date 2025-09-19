@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Maria",
+        "apellido": "Acosta",
+        "edad": "20",
+        "institucion": "UNLP",
+        "mail": "macosta@gmail.com",
+        "contrasenia": "123"
+    },
+    {
+        "nombre": "Araceli",
+        "apellido": "Maldonado",
+        "edad": "20",
+        "institucion": "UNLP",
+        "mail": "ara@gmail.com",
+        "contrasenia": "123"
+    },
+    {
+        "nombre": "Luz",
+        "apellido": "Iriarte",
+        "edad": "21",
+        "institucion": "UNLP",
+        "mail": "focoiriarte@gmail.com",
+        "contrasenia": "pionero"
+    },
+    {
+        "nombre": "Laura Daniela",
+        "apellido": "Paz",
+        "edad": "37",
+        "institucion": "UNC",
+        "mail": "paz.laurad.lp@gmail.com",
+        "contrasenia": "Casa2020"
+    }
+]
