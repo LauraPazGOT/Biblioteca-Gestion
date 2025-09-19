@@ -10,7 +10,7 @@ Biblioteca-Gestion/
 ├── usuarios.json # Datos de usuarios con contraseñas
 ├── usuarios_sin_contrasenia.json # Datos de usuarios sin contraseñas
 ├── README.md # Documentación del proyecto
-📝 Uso
+## 📝 Uso
 
 Iniciar sesión como bibliotecario o usuario.
 
@@ -28,7 +28,7 @@ Registrarse y acceder al catálogo.
 
 Buscar libros por título, autor o palabra clave.
 
-💻 Tecnologías
+## 💻 Tecnologías
 
 Python 3
 
@@ -36,7 +36,7 @@ JSON para almacenamiento de datos
 
 colorama para interfaz de consola coloreada
 
-🚀 Funcionalidades destacadas
+## 🚀 Funcionalidades destacadas
 
 Sistema de inicio de sesión seguro.
 
